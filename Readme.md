@@ -8,8 +8,8 @@
 ※使用方法
 FVTTを起動→モッド・拡張機能をクリック  
 モジュールインストールをクリック  
-一番下のURLを指定に以下のURLをいれて、インストール
-https://github.com/MiyabiRouga/shadowrun5eja-npc-item-set/blob/main/module.json
+一番下のURLを指定に以下のURLをいれて、インストール 
+ https://github.com/MiyabiRouga/shadowrun5eja-npc-item-set/blob/main/module.json
 
 ### 内容
 Shadowrun5eシステムで使用するグラント、アーキタイプ、武器や武器アクセサリになります。
