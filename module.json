@@ -53,5 +53,15 @@
             "path": "./packs/journal-entries.db",
             "type": "JournalEntry"
         }
-    ]
+    ],
+  "scripts": [],
+  "styles" : [],
+  "packs": [],
+  "dependencies": [],
+	"url" : "https://github.com/MiyabiRouga/shadowrun5eja-npc-item-set",
+	"download" : "https://github.com/MiyabiRouga/shadowrun5eja-npc-item-set/releases/download/0.0.1/shadowrun5eja-npc-item-set_rel.zip",
+	"manifest" : "https://github.com/MiyabiRouga/shadowrun5eja-npc-item-set/latest/download/module.json",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "11"
+
   }
