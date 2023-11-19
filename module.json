@@ -1,0 +1,57 @@
+{
+    "id": "shadowrun5eja-npc-item-set",
+    "title": "シャドウラン5thNPC、アイテム辞書",
+    "description": "※読み取り専用を推奨。アップデートすると上書きされます。v11以降",
+    "version": "0.0.1",
+    "authors": [
+       {
+            "name": "Miyabi Rouga",
+            "url": "",
+            "discord": "",
+            "flags": {}
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11",
+      "maximum": "11"
+    },
+    "packs": [
+        {
+            "name": "SR5Ja_Npc",
+            "label": "グラント、アーキタイプ、精霊など",
+            "system": "shadowrun5e",
+            "path": "./packs/npc.db",
+            "type": "Actor"
+        },
+        {
+            "name": "SR5Ja_Items",
+            "label": "武器、武器アクセサリ",
+            "system": "shadowrun5e",
+            "path": "./packs/items.db",
+            "type": "Item"
+        },
+        {
+            "name": "SR5Ja_spell",
+            "label": "呪文、パワーなど",
+            "system": "shadowrun5e",
+            "path": "./packs/spells.db",
+            "type": "Item"
+        },
+        {
+            "name": "SR5Ja_Scenes",
+            "label": "Shared Scenes",
+            "system": "shadowrun5e",
+            "path": "./packs/scenes.db",
+            "type": "Scene"
+        },
+        {
+            "name": "SR5Ja_journal",
+            "label": "Shared Journal Entries",
+            "system": "shadowrun5e",
+            "path": "./packs/journal-entries.db",
+            "type": "JournalEntry"
+        }
+    ]
+  }
