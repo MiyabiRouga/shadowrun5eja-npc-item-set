@@ -8,7 +8,7 @@
 ※使用方法
 FVTTを起動→モッド・拡張機能をクリック  
 モジュールインストールをクリック  
-一番下のURLを指定に以下のURLをいれて、インストール 
+一番下のURLを指定に以下のURLをいれて、インストール  
  https://github.com/MiyabiRouga/shadowrun5eja-npc-item-set/blob/main/module.json
 
 ### 内容
