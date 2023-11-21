@@ -1,7 +1,7 @@
 {
     "id": "shadowrun5eja-npc-item-set",
     "title": "シャドウラン5thNPC、アイテム辞書",
-    "description": "※読み取り専用を推奨。アップデートすると上書きされます。v11以降",
+    "description": "シャドウラン5thを日本語で遊ぶ際に便利なグラント、アーキタイプ、ヴィーク、ドローン、修正済み武器や魔法などの便利と思われるものの辞典です。※アップデートすると上書きされます。作成者により、更新されますので、各自で更新したり、共有辞書として使わないようにご注意ください。",
     "version": "0.0.1",
     "authors": [
        {
@@ -53,7 +53,7 @@
         },
         {
             "name": "SR5Ja_Scenes",
-            "label": "Shared Scenes",
+            "label": "シーン",
             "system": "shadowrun5e",
             "path": "./packs/scenes.db",
             "type": "Scene",
@@ -65,7 +65,7 @@
         },
         {
             "name": "SR5Ja_journal",
-            "label": "Shared Journal Entries",
+            "label": "資料",
             "system": "shadowrun5e",
             "path": "./packs/journal-entries.db",
             "type": "JournalEntry",
