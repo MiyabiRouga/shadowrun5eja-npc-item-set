@@ -11,7 +11,6 @@
             "flags": {}
         }
     ],
-    "version": "1.0.0",
     "compatibility": {
       "minimum": "11",
       "verified": "11",
@@ -23,35 +22,60 @@
             "label": "グラント、アーキタイプ、精霊など",
             "system": "shadowrun5e",
             "path": "./packs/npc.db",
-            "type": "Actor"
+            "type": "Actor",
+            "flags": {},
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
         },
         {
             "name": "SR5Ja_Items",
             "label": "武器、武器アクセサリ",
             "system": "shadowrun5e",
             "path": "./packs/items.db",
-            "type": "Item"
+            "type": "Item",
+            "flags": {},
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
         },
         {
             "name": "SR5Ja_spell",
             "label": "呪文、パワーなど",
             "system": "shadowrun5e",
             "path": "./packs/spells.db",
-            "type": "Item"
+            "type": "Item",
+            "flags": {},
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
         },
         {
             "name": "SR5Ja_Scenes",
             "label": "Shared Scenes",
             "system": "shadowrun5e",
             "path": "./packs/scenes.db",
-            "type": "Scene"
+            "type": "Scene",
+            "flags": {},
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
         },
         {
             "name": "SR5Ja_journal",
             "label": "Shared Journal Entries",
             "system": "shadowrun5e",
             "path": "./packs/journal-entries.db",
-            "type": "JournalEntry"
+            "type": "JournalEntry",
+            "flags": {},
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
         }
     ],
     "manifest" : "https://github.com/MiyabiRouga/shadowrun5eja-npc-item-set/releases/latest/download/module.json",
